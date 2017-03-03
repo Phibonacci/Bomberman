@@ -1,0 +1,2721 @@
+<GamePlayer
+2 0
+Player 1 2 0 3 0
+Player 1 2 0 3 0
+GamePlayer> <Board
+21 21
+<Entity
+Position 0 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 1 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 2 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 3 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 4 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 5 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 6 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 7 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 8 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 9 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 10 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 11 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 0 0 1
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 1 0 1
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RotateDraw KickBomb
+KickShoe
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 2 0 1
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 3 0 1
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 4 0 1
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 6 0 1
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 7 0 1
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+Skull -1
+RotateDraw Skull
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 8 0 1
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 0 0 2
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 1 0 2
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 4 0 2
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify -1
+RotateDraw MalusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 7 0 2
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 8 0 2
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 9 0 2
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 10 0 2
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 11 0 2
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 0 0 3
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 2 0 3
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 4 0 3
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 7 0 3
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 8 0 3
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 9 0 3
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 11 0 3
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 0 0 4
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 1 0 4
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 3 0 4
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 6 0 4
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 7 0 4
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 9 0 4
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 10 0 4
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 11 0 4
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 0 0 5
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 1 0 5
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 2 0 5
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 4 0 5
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify -1
+RotateDraw MalusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 6 0 5
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 9 0 5
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 10 0 5
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 11 0 5
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify -1
+RotateDraw MalusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 0 0 6
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 1 0 6
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 3 0 6
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 8 0 6
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+SpeedModify -1
+RotateDraw MalusSpeed
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 9 0 6
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 10 0 6
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 11 0 6
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 0 0 7
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 4 0 7
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 5 0 7
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 7 0 7
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 11 0 7
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+SpeedModify 1
+RotateDraw BonusSpeed
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 0 0 8
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 2 0 8
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 3 0 8
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 4 0 8
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 5 0 8
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 7 0 8
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 9 0 8
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 10 0 8
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 11 0 8
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 0 0 9
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 1 0 9
+Move 0
+ModelDraw Bomberman
+HasPlayer 0 1
+Moveable 0
+Hitbox 0.5 0.5 0.5
+OnTouchBlock 
+Explosicore 100
+BombMake 
+BombMaker 0
+Entity>
+<Entity
+Position 2 0 9
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 4 0 9
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 5 0 9
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 6 0 9
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 9 0 9
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify -1
+RotateDraw MalusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 10 0 9
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 0 0 10
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 2 0 10
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 3 0 10
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 5 0 10
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 6 0 10
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 10 0 10
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 11 0 10
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 0 0 11
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 1 0 11
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify -1
+RotateDraw MalusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 2 0 11
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 5 0 11
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 6 0 11
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 7 0 11
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RotateDraw KickBomb
+KickShoe
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 9 0 11
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify -1
+RotateDraw MalusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 10 0 11
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 12 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 13 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 14 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 15 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 16 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 17 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 18 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 19 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 20 0 0
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 12 0 1
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 20 0 1
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 12 0 2
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+Skull -1
+RotateDraw Skull
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 13 0 2
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 15 0 2
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 16 0 2
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 18 0 2
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 19 0 2
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 20 0 2
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 14 0 3
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 15 0 3
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 16 0 3
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 18 0 3
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 19 0 3
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 20 0 3
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 14 0 4
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 16 0 4
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify -1
+RotateDraw MalusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 17 0 4
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 19 0 4
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RotateDraw PierceBomb
+Pierce 1
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 20 0 4
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 12 0 5
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 13 0 5
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 14 0 5
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 15 0 5
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RotateDraw KickBomb
+KickShoe
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 16 0 5
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 19 0 5
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 20 0 5
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 13 0 6
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 14 0 6
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 15 0 6
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify -1
+RotateDraw MalusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 18 0 6
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify -1
+RotateDraw MalusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 19 0 6
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 20 0 6
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 12 0 7
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 14 0 7
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RotateDraw KickBomb
+KickShoe
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 15 0 7
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 16 0 7
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 18 0 7
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 19 0 7
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 20 0 7
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 12 0 8
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 13 0 8
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 15 0 8
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 17 0 8
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify -1
+RotateDraw MalusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 18 0 8
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+Skull -1
+RotateDraw Skull
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 19 0 8
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 20 0 8
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 12 0 9
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 13 0 9
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 15 0 9
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 16 0 9
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 18 0 9
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 20 0 9
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 14 0 10
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 15 0 10
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 16 0 10
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 17 0 10
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 18 0 10
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+SpeedModify -1
+RotateDraw MalusSpeed
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 19 0 10
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 20 0 10
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 12 0 11
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 14 0 11
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 16 0 11
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RotateDraw KickBomb
+KickShoe
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 17 0 11
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 18 0 11
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 19 0 11
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+SpeedModify -1
+RotateDraw MalusSpeed
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 20 0 11
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 0 0 12
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 1 0 12
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 4 0 12
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 5 0 12
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 6 0 12
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 7 0 12
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 10 0 12
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 11 0 12
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 0 0 13
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 2 0 13
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 3 0 13
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 7 0 13
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RotateDraw KickBomb
+KickShoe
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 8 0 13
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 10 0 13
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 0 0 14
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 1 0 14
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 2 0 14
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 3 0 14
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 5 0 14
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify -1
+RotateDraw MalusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 6 0 14
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+SpeedModify -1
+RotateDraw MalusSpeed
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 7 0 14
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 8 0 14
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+SpeedModify 1
+RotateDraw BonusSpeed
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 9 0 14
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 11 0 14
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 0 0 15
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 3 0 15
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 4 0 15
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 7 0 15
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 8 0 15
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 10 0 15
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 11 0 15
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 0 0 16
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 2 0 16
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 3 0 16
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 6 0 16
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 10 0 16
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 11 0 16
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 0 0 17
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 2 0 17
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 3 0 17
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 6 0 17
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 8 0 17
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 9 0 17
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 10 0 17
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify -1
+RotateDraw MalusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 11 0 17
+Move 0
+ModelDraw Bomberman
+HasPlayer 1 1
+Moveable 0
+Hitbox 0.5 0.5 0.5
+OnTouchBlock 
+Explosicore 100
+BombMake 
+BombMaker 0
+Entity>
+<Entity
+Position 0 0 18
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 3 0 18
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 5 0 18
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 7 0 18
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 9 0 18
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 10 0 18
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify -1
+RotateDraw MalusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 0 0 19
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 2 0 19
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 3 0 19
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+SpeedModify 1
+RotateDraw BonusSpeed
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 4 0 19
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 5 0 19
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+SpeedModify 1
+RotateDraw BonusSpeed
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 6 0 19
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 7 0 19
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 8 0 19
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 0 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 1 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 2 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 3 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 4 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 5 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 6 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 7 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 8 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 9 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 10 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 11 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 13 0 12
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 16 0 12
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 17 0 12
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+SpeedModify 1
+RotateDraw BonusSpeed
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 20 0 12
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 12 0 13
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 13 0 13
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 17 0 13
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 18 0 13
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 20 0 13
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 12 0 14
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+SpeedModify 1
+RotateDraw BonusSpeed
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 13 0 14
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 14 0 14
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 15 0 14
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 18 0 14
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 19 0 14
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 20 0 14
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 12 0 15
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 14 0 15
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 17 0 15
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 18 0 15
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 20 0 15
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 14 0 16
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+NumBombModify 1
+RotateDraw BonusStock
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 15 0 16
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 18 0 16
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 20 0 16
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 12 0 17
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 14 0 17
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 16 0 17
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 18 0 17
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+Skull -1
+RotateDraw Skull
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 19 0 17
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify 1
+RotateDraw BonusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 20 0 17
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 13 0 18
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 14 0 18
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 15 0 18
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify -1
+RotateDraw MalusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 16 0 18
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 17 0 18
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 19 0 18
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 20 0 18
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 15 0 19
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+Entity>
+<Entity
+Position 19 0 19
+GeometryDraw Wall
+Hitbox 1 1 1
+Explosiblock 
+OnTouchBlock 
+HasBonus <Entity
+RangeBombModify -1
+RotateDraw MalusRange
+Hitbox 1 1 1
+RangeBombModify 1
+Explosible 
+Entity>
+Entity>
+<Entity
+Position 20 0 19
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 12 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 13 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 14 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 15 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 16 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 17 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 18 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 19 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+<Entity
+Position 20 0 20
+GeometryDraw UnWall
+OnTouchBlock 
+Hitbox 1 1 1
+OnTouchBlock 
+Explosimble 
+Entity>
+Board>
